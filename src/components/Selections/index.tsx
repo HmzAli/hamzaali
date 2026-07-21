@@ -44,9 +44,10 @@ const Selections = () => {
                 <span>Delivery date:</span> <span className="date-text"> 2025 </span>
               </div>
 
-              <p>My work with Cosy Home Care was primarily focused on building a custom theme for their site and setting up page-builder tools so their admin and marketing teams could easily make basic updates.</p>
+              <p>My work with Cosy Home Care was primarily focused on building a modern, custom theme for their site and setting up page-builder tools so their admin and marketing teams could easily make basic updates.</p>
 
               <p>Additionally, the website suffered from significant performance issues, which I resolved by auditing WordPress plugins and implementing robust security measures including 2FA.</p>
+
 
               <a className="btn btn-primary mb-3" href="https://cosy-home-web.duckdns.org" target="_blank"> Open site </a>
             </div>
