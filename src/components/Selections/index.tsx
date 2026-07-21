@@ -34,7 +34,7 @@ const Selections = () => {
         <div className="project-item">
           <figure className="video-wrapper project-item__video">
             {/* @ts-ignore */}
-            <video src="/cosy.mp4" muted autoplay="true" loop />
+            {/* <video src="/cosy.mp4" muted autoplay="true" loop /> */}
           </figure>
 
           <div className="project-item__content">
