@@ -46,9 +46,9 @@ const Selections = () => {
 
               <p>My work with Cosy Home Care was primarily focused on building a custom theme for their site and setting up page-builder tools so their admin and marketing teams could easily make basic updates.</p>
 
-              <p>Additionally, the website suffered from significant performance issues, which I resolved by auditing WordPress plugins and implementing robust security measures, including Cloudflare integration and two-factor authentication (2FA).</p>
+              <p>Additionally, the website suffered from significant performance issues, which I resolved by auditing WordPress plugins and implementing robust security measures including 2FA.</p>
 
-              <a className="btn btn-primary mb-3" href="https://cosyhomecare.com.au" target="_blank"> Open site </a>
+              <a className="btn btn-primary mb-3" href="https://cosy-home-web.duckdns.org" target="_blank"> Open site </a>
             </div>
           </div>
         </div>
