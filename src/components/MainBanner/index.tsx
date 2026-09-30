@@ -6,11 +6,14 @@ const MainBanner = () => {
     
   }, [])
   return (
-    <section className="main-banner">``
+    <section className="main-banner">
       <div className="container">
         <div className="tagline" data-content-id="tagline" id="tagline">
-           <h1 data-aos="fade-in" data-aos-duration="500" data-aos-delay="200">Hamza Ali (Isaac)</h1>
-           <h3 data-aos="fade-in" data-aos-duration="500" data-aos-delay="200">Full Stack Developer</h3>
+          <h1>Hamza Ali (Isaac)</h1>
+          <h3>Full Stack Developer</h3>
+          <br />
+          <h4><strong>FinTech | SaaS | System Integration | Web Development</strong></h4>
+          <small><strong>TypeScript | Golang | Node.js | React | AWS | PostgreSQL</strong></small>
         </div>
       </div>
 

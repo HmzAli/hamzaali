@@ -2,9 +2,6 @@ import { ReactNode, useEffect } from 'react'
 import Footer from './Footer'
 import { useLocation } from 'react-router-dom'
 
-import AOS from 'aos';
-import 'aos/dist/aos.css';
-
 interface LayoutProps {
   children: ReactNode
 }
@@ -14,11 +11,6 @@ function Layout({ children }: LayoutProps) {
   const isHomePage = location.pathname === '/';
 
   useEffect(() => {
-    AOS.init({
-      once: true,
-      delay: 0,
-      offset: 0,
-    });
   }, []);
 
   return (
