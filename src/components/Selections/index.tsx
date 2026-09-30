@@ -44,9 +44,9 @@ const Selections = () => {
                 <span>Delivery date:</span> <span className="date-text"> 2025 </span>
               </div>
 
-              <p>My work with Cosy Home Care was primarily focused on building a modern, custom theme for their site and setting up page-builder tools so their admin and marketing teams could easily make basic updates.</p>
+              <p>My work with Cosy Home Care was primarily focused on complete migration of the site from WordPress to self-hosted solution SPA based solution on a VPS. The work done was implementing the backend to use Strapi as CMS and fully migrating data from WordPress to Strapi. Client also requested for serveral integration with third-party services including GoHighLevel, AI Chatbot system using Google Gemini, and other integrations.</p>
 
-              <p>Additionally, the website suffered from significant performance issues, which I resolved by auditing WordPress plugins and implementing robust security measures including 2FA.</p>
+              <p>The newer website had significantly improved performance and security in comparision to the older version.</p>
 
 
               <a className="btn btn-primary mb-3" href="https://cosy-home-web.duckdns.org" target="_blank"> Open site </a>
@@ -69,7 +69,7 @@ const Selections = () => {
                 <span>Delivery date:</span> <span className="date-text"> 2024 </span>
               </div>
 
-              <p>Ridpest was one of the earliest clients I worked with in Malaysia. In 2024, I was brought on to help revamp their aging website, focusing on customization and building a platform that their marketing team could easily manage with minimal developer assistance.</p>
+              <p>Ridpest was one of the earliest clients I worked with in Malaysia. In 2024, I was brought on to help integrate their systems with Paynet to support FPX payments on their customer portal. My work also included building lightway portal for their marketing team to view and manage customer transactions</p>
 
               <p>For this version of the site, I primarily focused on the CMS, helping their team make the most of WordPress's capabilities.</p>
 
@@ -141,9 +141,7 @@ const Selections = () => {
                 <span>Delivery date:</span> <span className="date-text"> 2024 </span>
               </div>
 
-              <p>Starting by designing bottle stickers for Flemonade, I helped establish their visual identity. Using their typography, I developed a color scheme that felt authentic and clean matching their handcrafted lemonade approach.</p>
-
-              <p>I then built their website with sections for their story and ordering process. The site covers ingredients to pickup locations, creating a simple digital presence for their craft beverage business.</p>
+              <p>Flemonade is a delivery-only beverage company based in Kuala Lumpur. I helped integrate their Shopify store with HubSpot to synchronize customer and order data, enabling better CRM and marketing automation. Part of the project was also building a simple single page website to replace their outdated one.</p>
 
               <a className="btn btn-primary mb-3" href="https://flemonade.com" target="_blank"> Open site </a>
             </div>
@@ -162,12 +160,13 @@ const Selections = () => {
             <div>
               <h3> Edvance Digital </h3>
               <div className="date-label">
-                <span>Delivery date:</span> <span className="date-text"> 2022 </span>
+                <span>Delivery date:</span> <span className="date-text"> 2023, 2026 </span>
               </div>
 
-              <p>Edvance is a fintech startup that automates school fee collection and provides smart fee disbursement solutions. I worked closely with Edward who gave me full ownership of developing and delivering both the website and admin panel.</p>
+              <p>Edvance is a fintech startup that automates school fee collection and disbursement. I worked on its next-generation payment platform, covering payment products, settlement, system migration, and AI-powered features, while also mentoring developers through the transition to the new system.
+</p>
 
-              <p>Unlike my later projects, Edvance presented a unique challenge with scarce design assets. This required me to take on a significant design role alongside development, making key aesthetic and UX decisions that defined the final product.</p>
+              <p>Unlike my later projects, Edvance presented a unique challenge due to loss of context over the 2 seperate period I worked with them, and the complexity of the old system. That pushed me to take on a more proactive role in defining the technical direction and ensuring the new system included all the undocumented features from the older ones.</p>
               
               <a className="btn btn-primary mb-3" href="https://www.edvance.school" target="_blank"> Open site </a>
             </div>

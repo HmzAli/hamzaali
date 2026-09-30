@@ -24,7 +24,6 @@ function Layout({ children }: LayoutProps) {
 
   return (
     <div className={`main-content ${isHomePage ? 'home-page' : 'not-homepage'}`}>
-      <Header />
       <main>
         {children}
       </main>

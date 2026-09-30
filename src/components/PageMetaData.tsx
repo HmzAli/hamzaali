@@ -1,8 +1,8 @@
 import { useInsertionEffect } from 'react';
 
 export function PageMetadata({ 
-  title = 'Isaac Ali',
-  description = 'Bespoke websites & landing pages',
+  title = 'Hamza Ali Portfolio',
+  description = 'Hamza Ali Portfolio Website',
   canonical = 'https://IsaacAli.com',
   keywords = '',
   ogImage = ''
@@ -45,7 +45,7 @@ export function PageMetadata({
     link.href = canonical;
 
     return () => {
-      document.title = 'Isaac Ali';
+      document.title = 'Hamza Ali';
     };
   }, [title, description, canonical, keywords, ogImage]);
 

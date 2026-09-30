@@ -11,16 +11,14 @@ function Index() {
   return (
     <Layout>
       <PageMetadata
-        title="Isaac Ali"
-        description="Bespoke websites & landing pages"
+        title="Hamza Ali"
+        description="Hamza Ali"
         canonical="https://isaacali.com"
       />
 
       <MainBanner />
-      <Services />
       <Selections />
       <Testimonials />
-      <Contact />
     </Layout>
   )
 }
