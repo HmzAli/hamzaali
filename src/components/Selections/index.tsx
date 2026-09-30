@@ -49,7 +49,7 @@ const Selections = () => {
               <p>The newer website had significantly improved performance and security in comparision to the older version.</p>
 
 
-              <a className="btn btn-primary mb-3" href="https://cosy-home-web.duckdns.org" target="_blank"> Open site </a>
+              <a className="btn btn-primary mb-3" href="https://cosyhomecare.com.au" target="_blank"> Open site </a>
             </div>
           </div>
         </div>
